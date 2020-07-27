@@ -149,6 +149,9 @@ a{
 .logo-container{
     display: block;
     width: fit-content;
+    color: #fff;
+    font-weight: 800;
+    font-size: 30px;
 }
 
 .logo-container img{
@@ -498,4 +501,14 @@ a{
         height: auto;
         width: 100px;
     }
+}
+
+.splide__pagination{
+    display: none !important;
+}
+.splide__slide img{
+    height: 100%;
+    width: auto;
+    display: block;
+    margin: 0 auto;
 }
