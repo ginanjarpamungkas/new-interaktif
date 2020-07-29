@@ -525,6 +525,10 @@ a{
         width: 100%;
         height: 100%;
     }
+    .section-image{
+        background-position: center !important;
+        background-size: cover !important;
+    }
 }
 @media screen and (max-width:800px){
     .footer-container{
